@@ -1,2 +1,6 @@
  私も日本語は分かりません。
- ![TryHackMe Stats](./assets/thm_badge.png?v=1)
+
+
+
+ [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212c42?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/m7mdleaf)
+ 
