@@ -1,4 +1,6 @@
  私も日本語は分かりません。
 
 
-  ![m7mdS](https://tryhackme-badges.thedutchie.dev/badge/YOUR_THM_USERNAME)
+<a href="https://tryhackme.com/p/m7mdS">
+  <img src="https://tryhackme-badges.thedutchie.dev/card/m7mdS" alt="TryHackMe Stats" />
+</a>
