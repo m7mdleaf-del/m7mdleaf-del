@@ -1,3 +1,3 @@
  私も日本語は分かりません。
  
-![TryHackMe Stats](./assets/thm_badge.png)
+![TryHackMe Stats](https://raw.githubusercontent.com/m7mdleaf/m7mdleaf/main/assets/thm_badge.png)
