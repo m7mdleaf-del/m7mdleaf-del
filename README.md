@@ -1,6 +1,3 @@
- 私も日本語は分かりません。
+hello there 
 
-
-
- [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212c42?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/m7mdleaf)
- 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C5F702&background=1945FF00&width=435&lines=The+more+I+learn%2C+the+less+I+know)](https://git.io/typing-svg)
