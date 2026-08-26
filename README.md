@@ -4,7 +4,7 @@
 
 ### 🛠️ Languages & Technologies
 
-<img src="./assets/FromKlickpin.com-DiscoverStylishfamilydinnerideasthataretrendingrightnowacrossPinterestboardsforideasworthsavingrightnow-pin-i-ezgif.com-video-to-gif-converter.gif" width="480" align="right">
+<!-- <img src="./assets/FromKlickpin.com-DiscoverStylishfamilydinnerideasthataretrendingrightnowacrossPinterestboardsforideasworthsavingrightnow-pin-i-ezgif.com-video-to-gif-converter.gif" width="480" align="right"> -->
 
 - Building scalable backend APIs
 - Crafting cross-platform apps
