@@ -1,7 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C5F702&background=1945FF00&width=435&lines=The+more+I+learn%2C+the+less+I+know+.+.+.)](https://git.io/typing-svg)
 
 ### 🛠️ Languages & Technologies
-<img src="./assets/FromKlickpin.com-DiscoverStylishfamilydinnerideasthataretrendingrightnowacrossPinterestboardsforideasworthsavingrightnow-pin-i-ezgif.com-video-to-gif-converter.gif" width="500">
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/FromKlickpin.com-DiscoverStylishfamilydinnerideasthataretrendingrightnowacrossPinterestboardsforideasworthsavingrightnow-pin-i-ezgif.com-video-to-gif-converter.gif" width="100%">
+    </td>
+    <td width="50%" valign="top">
+      <p>Building scalable backend APIs, cross-platform apps, and exploring local AI models & security research.</p>
+    </td>
+  </tr>
+</table>
 
 #### Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
