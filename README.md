@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C5F702&background=1945FF00&width=435&lines=The+more+I+learn%2C+the+less+I+know+.+.+.)](https://git.io/typing-svg)
 
 ### 🛠️ Languages & Technologies
+<img src="./assets/FromKlickpin.com-DiscoverStylishfamilydinnerideasthataretrendingrightnowacrossPinterestboardsforideasworthsavingrightnow-pin-i-ezgif.com-video-to-gif-converter.gif" width="800">
 
 #### Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
