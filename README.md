@@ -1,14 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C5F702&background=1945FF00&width=435&lines=The+more+I+learn%2C+the+less+I+know+.+.+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=The+more+I+learn%2C+the+less+I+know+.+.+.;Backend+Developer;Flutter+%26+Mobile+Dev;Cybersecurity+Researcher;AI+%26+LLM+Enthusiast)](https://git.io/typing-svg)
 
 ### 🛠️ Languages & Technologies
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+<table border="0">
+  <tr border="0">
+    <td width="50%" valign="top" style="border: none;">
       <img src="./assets/FromKlickpin.com-DiscoverStylishfamilydinnerideasthataretrendingrightnowacrossPinterestboardsforideasworthsavingrightnow-pin-i-ezgif.com-video-to-gif-converter.gif" width="100%">
     </td>
-    <td width="50%" valign="top">
-      <p>Building scalable backend APIs, cross-platform apps, and exploring local AI models & security research.</p>
+    <td width="50%" valign="top" style="border: none;">
+      <ul>
+        <li>⚡ Building scalable backend APIs</li>
+        <li>📱 Crafting cross-platform apps</li>
+        <li>🤖 Exploring local AI models & LLMs</li>
+        <li>🛡️ Security research & penetration testing</li>
+      </ul>
     </td>
   </tr>
 </table>
