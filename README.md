@@ -1,21 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C5F702&background=1945FF00&width=435&lines=The+more+I+learn%2C+the+less+I+know+.+.+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C5F702&background=1945FF00&width=600&lines=The+more+I+learn%2C+the+less+I+know+.+.+.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&background=1945FF00&width=435&lines=Backend+Developer;Flutter+%26+Mobile+Dev;Cybersecurity+Researcher;AI+%26+LLM+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFD700&background=1945FF00&width=500&lines=Backend+Developer;Flutter+%26+Mobile+Dev;Cybersecurity+Researcher;AI+%26+LLM+Enthusiast)](https://git.io/typing-svg)
 
 ### 🛠️ Languages & Technologies
 
-<div align="center">
-  <img src="./assets/FromKlickpin.com-DiscoverStylishfamilydinnerideasthataretrendingrightnowacrossPinterestboardsforideasworthsavingrightnow-pin-i-ezgif.com-video-to-gif-converter.gif" width="350" align="left">
+<img src="./assets/FromKlickpin.com-DiscoverStylishfamilydinnerideasthataretrendingrightnowacrossPinterestboardsforideasworthsavingrightnow-pin-i-ezgif.com-video-to-gif-converter.gif" width="480" align="right">
 
-  <br>
-
-  <ul>
-    <li>⚡ Building scalable backend APIs</li>
-    <li>📱 Crafting cross-platform apps</li>
-    <li>🤖 Exploring local AI models & LLMs</li>
-    <li>🛡️ Security research & penetration testing</li>
-  </ul>
-</div>
+- Building scalable backend APIs
+- Crafting cross-platform apps
+- Exploring local AI models & LLMs
+- Security research & penetration testing
 
 <br clear="all" />
 
